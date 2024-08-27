@@ -12,7 +12,7 @@ body {
     width: 50px;
     z-index: 1000;
     background-color: transparent;
-    position: fixed;
+    position: absolute;
     padding: 0;
     bottom: 20px;
     left: 10px;
@@ -24,7 +24,7 @@ body {
     width: 100px;
     z-index: 1000;
     background-color: transparent;
-    position: fixed;
+    position: absolute;
     padding: 0;
     bottom: 0px;
     left: 60px;
