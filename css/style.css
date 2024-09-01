@@ -403,6 +403,11 @@ a:focus {
     animation-duration: 1.5s;
 }
 
+.carousel .carousel-caption a img{
+    height: 51px;
+    width: 51px;
+}
+
 
 /*******************************/
 /******* Page Header CSS *******/
